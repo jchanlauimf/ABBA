@@ -12,10 +12,14 @@ The model is described fully in this [working paper](https://papers.ssrn.com/sol
 ## Directory structure
 
 - **codes**  
-  Contains the main NetLogo Code of the program. The code is fully documented. A substantial Requires NetLogo 5.2.1, and it does not run in NetLogo 6.0
+  Main fully documented NetLogo program. Requires NetLogo 5.2.1, will not run in NetLogo 6.0
+
+- **img**  
+  Banner image for respository.
   
 - **other**  
-  Contains auxiliary Matlab m-files that process the NetLogo output of the program and the LibreOffice presentation.
+  Auxiliary Matlab m-files that process NetLogo program output.  
+  LibreOffice presentation.
 
 ## Contact
 
