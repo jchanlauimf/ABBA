@@ -17,7 +17,7 @@ The model is described fully in this [working paper](https://papers.ssrn.com/sol
 - **other**  
   Contains auxiliary Matlab m-files that process the NetLogo output of the program and the LibreOffice presentation.
 
-#### Contact
+## Contact
 
 If you are interested in further extending and customizing ABBA, or more generally, in ABM models applied in banking and finance, please feel free to contact me at either of these email addresses:
 
