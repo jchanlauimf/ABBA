@@ -1,2 +1,7 @@
 # ABBA
-Agent based-model of the banking system (NetLogo)
+
+Agent based-model of the banking system (NetLogo Model)
+
+
+
+
